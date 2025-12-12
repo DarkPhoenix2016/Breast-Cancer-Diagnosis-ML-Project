@@ -48,7 +48,6 @@ Breast_Cancer_Project/
 ├── images/                 # Generated plots (Confusion Matrices, Heatmaps)
 ├── notebooks/              # Jupyter Notebooks containing the source code
 │   └── Breast_Cancer_Analysis.ipynb
-├── report/                 # Final Project Report (PDF)
 ├── README.md               # Project Documentation
 └── requirements.txt        # Python dependencies
 ```
